@@ -33,6 +33,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #engraving style
+    "https://civitai.com/api/download/models/110236?type=Model&format=SafeTensor"
 )
 
 UNET_MODELS=(
