@@ -35,6 +35,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #engraving style
     "https://civitai.com/api/download/models/110236?type=Model&format=SafeTensor"
+    #lyh_anime_flux
+    "https://civitai.com/api/download/models/867564?type=Model&format=SafeTensor&size=full&fp=fp8"
 )
 
 UNET_MODELS=(
