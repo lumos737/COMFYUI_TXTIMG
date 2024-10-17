@@ -32,7 +32,7 @@ CHECKPOINT_MODELS=(
     #toonyou
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper
-    "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #Makimakii
     "https://civitai.com/api/download/models/76710?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     
@@ -45,9 +45,9 @@ UNET_MODELS=(
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
     #White Star
-    "https://civitai.com/api/download/models/125672"
+    "https://civitai.com/api/download/models/125672?type=Model&format=SafeTensor"
     #Kamibana
-    "https://civitai.com/api/download/models/91760"
+    "https://civitai.com/api/download/models/91760?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
