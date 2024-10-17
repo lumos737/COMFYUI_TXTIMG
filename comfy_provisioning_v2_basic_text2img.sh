@@ -47,7 +47,9 @@ LORA_MODELS=(
     #White Star
     "https://civitai.com/api/download/models/125672?type=Model&format=SafeTensor"
     #Kamibana
-    "https://civitai.com/api/download/models/91760?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/91760?type=Model&format=SafeTensor"
+    #shaved ice
+    "https://civitai.com/api/download/models/675591?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
