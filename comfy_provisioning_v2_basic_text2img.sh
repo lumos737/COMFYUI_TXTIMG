@@ -52,6 +52,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/675591?type=Model&format=SafeTensor"
     #painting art nature
     "https://civitai.com/api/download/models/689728?type=Model&format=SafeTensor"
+    #Oil painting stick
+    "https://civitai.com/api/download/models/115221?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
