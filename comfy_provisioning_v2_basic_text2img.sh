@@ -44,6 +44,8 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    #White Star
+    "https://civitai.com/api/download/models/125672?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
