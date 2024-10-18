@@ -45,17 +45,21 @@ UNET_MODELS=(
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
     #White Star
-    "https://civitai.com/api/download/models/125672?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/125672?type=Model&format=SafeTensor"
     #Kamibana
     #"https://civitai.com/api/download/models/91760?type=Model&format=SafeTensor"
     #shaved ice
-    "https://civitai.com/api/download/models/675591?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/675591?type=Model&format=SafeTensor"
     #painting art nature
     "https://civitai.com/api/download/models/689728?type=Model&format=SafeTensor"
     #Oil painting stick
     "https://civitai.com/api/download/models/115221?type=Model&format=SafeTensor"
     #Oil brush
     "https://civitai.com/api/download/models/94277?type=Model&format=SafeTensor"
+    #japanese illustration
+    "https://civitai.com/api/download/models/95599?type=Model&format=SafeTensor"
+    #Anime Style Slider
+    "https://civitai.com/api/download/models/286089?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
