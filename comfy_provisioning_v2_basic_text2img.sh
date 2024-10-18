@@ -69,6 +69,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/151356?type=Model&format=SafeTensor"
     #Pastel Color
     "https://civitai.com/api/download/models/143715?type=Model&format=SafeTensor"
+    #Pastel art ageless
+    "https://civitai.com/api/download/models/333273?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
