@@ -35,6 +35,8 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #Makimakii
     "https://civitai.com/api/download/models/76710?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #lyh_anime_flux
+    "https://civitai.com/api/download/models/867564?type=Model&format=SafeTensor&size=full&fp=fp8"
     
 )
 
@@ -60,6 +62,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/95599?type=Model&format=SafeTensor"
     #Anime Style Slider
     "https://civitai.com/api/download/models/286089?type=Model&format=SafeTensor"
+    #PE Anime Background/Landscape
+    "https://civitai.com/api/download/models/151356?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
