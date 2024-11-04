@@ -52,6 +52,16 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    #japanese illustration
+    "https://civitai.com/api/download/models/95599?type=Model&format=SafeTensor"
+    #Anime Style Slider
+    "https://civitai.com/api/download/models/286089?type=Model&format=SafeTensor"
+    #PE Anime Background/Landscape
+    "https://civitai.com/api/download/models/151356?type=Model&format=SafeTensor"
+    #Pastel Color
+    "https://civitai.com/api/download/models/143715?type=Model&format=SafeTensor"
+    #Pastel art ageless
+    "https://civitai.com/api/download/models/333273?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
